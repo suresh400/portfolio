@@ -19,7 +19,7 @@ export const projectsData: Project[] = [
     category: 'web',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
     // githubUrl: 'https://github.com/suresh400/Mymedic-Doctor-Appointment',
-    year: '2023'
+    year: '2024'
   },
   {
     title: 'Wellside Pharmacy System',
@@ -28,7 +28,7 @@ export const projectsData: Project[] = [
     category: 'web',
     tags: ['PHP', 'MySQL', 'HTML', 'CSS'],
     // githubUrl: 'https://github.com/suresh400/wellside-pharmacy',
-    year: '2023'
+    year: '2024'
   },
   {
     title: 'Hospital Management System (RBAC)',
@@ -38,7 +38,7 @@ export const projectsData: Project[] = [
     tags: ['React', 'Node.js', 'MongoDB', 'Role-Based Access'],
     githubUrl: 'https://github.com/suresh400/HMS',
     liveUrl: 'https://hmsy.vercel.app/',
-    year: '2024'
+    year: '2025'
   },
   {
     title: 'PingMe Chat Application',
@@ -46,7 +46,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/4042806/pexels-photo-4042806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'web',
     tags: ['React', 'Node.js', 'WebSockets', 'Context API'],
-    year: '2024'
+    year: '2025'
   },
   {
     title: 'Portfolio Website',
@@ -54,6 +54,6 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/6476254/pexels-photo-6476254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'web',
     tags: ['React', 'Vite', 'Tailwind CSS'],
-    year: '2024'
+    year: '2025'
   }
 ];
