@@ -12,7 +12,7 @@ export const certificatesData: Certificate[] = [
     issuedBy: 'CipherSchools',
     date: 'August 2023',
     description: 'Completed intensive summer training on DSA using C++ covering arrays, stacks, queues, trees, sorting, and recursion.',
-    credentialUrl: 'https://cipherschools.com/certificate/dsa-suresh' // Replace with actual URL
+    credentialUrl: 'https://www.cipherschools.com/certificate/preview?id=66a76d5ed15c5abc1ea65e02' // Replace with actual URL
   },
   {
     title: 'HTML, CSS, and Javascript for Web Developers',
