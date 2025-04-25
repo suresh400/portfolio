@@ -18,7 +18,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/6749776/pexels-photo-6749776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'web',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-    // githubUrl: 'https://github.com/suresh400/mymedic/',
+    githubUrl: 'https://github.com/suresh400/mymedic/',
     year: '2024'
   },
   {
@@ -27,7 +27,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/6074936/pexels-photo-6074936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'web',
     tags: ['PHP', 'MySQL', 'HTML', 'CSS'],
-    // githubUrl: 'https://github.com/suresh400/PharmacyStore/',
+    githubUrl: 'https://github.com/suresh400/PharmacyStore/',
     year: '2024'
   },
   {
@@ -54,6 +54,8 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/6476254/pexels-photo-6476254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'web',
     tags: ['React', 'Vite', 'Tailwind CSS'],
+    githubUrl: 'https://github.com/suresh400/portfolio',
+    liveUrl: 'https://suresh0.netlify.app/',
     year: '2025'
   }
 ];
