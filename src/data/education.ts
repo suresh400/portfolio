@@ -10,8 +10,8 @@ export interface Education {
   
   export const educationData: Education[] = [
     {
-      degree: 'Bachelor of Technology in Computer Science',
-      institution: 'Lovely professional University',
+      degree: 'BTech. Computer Science and Engineering',
+      institution: 'Lovely Professional University',
       duration: '2022 - 2026',
       location: 'Punjab, India',
       description: 'Comprehensive study of computer science fundamentals, algorithms, and software development.',
