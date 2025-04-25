@@ -35,7 +35,7 @@ const Header: React.FC = () => {
           : 'bg-transparent py-6'
       }`}
     >
-      <div className="container mx-auto px-20 flex justify-between items-center">
+      <div className="container mx-auto px-4 flex justify-between items-center">
         <div 
           className="text-xl font-bold cursor-pointer" 
           onClick={() => scrollToSection('hero')}
@@ -45,7 +45,7 @@ const Header: React.FC = () => {
         
         <nav className="hidden md:block">
           <ul className="flex space-x-8">
-            {['About', 'Skills', 'Projects', 'Certificates', 'Contact'].map((item) => (
+            {['About', 'Education', 'Skills', 'Projects', 'Certificates', 'Contact'].map((item) => (
               <li key={item}>
                 <button 
                   onClick={() => scrollToSection(item.toLowerCase())}
@@ -75,7 +75,7 @@ const Header: React.FC = () => {
         <div className="md:hidden absolute top-full left-0 w-full bg-white dark:bg-gray-800 shadow-lg">
           <nav className="container mx-auto px-4 py-4">
             <ul className="space-y-4">
-              {['About', 'Skills', 'Projects', 'Certificates', 'Contact'].map((item) => (
+              {['About', 'Education', 'Skills', 'Projects', 'Certificates', 'Contact'].map((item) => (
                 <li key={item}>
                   <button 
                     onClick={() => scrollToSection(item.toLowerCase())}
